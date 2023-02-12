@@ -1,0 +1,12 @@
+.navbar{
+  
+  background-color: yellow;
+   
+}
+
+@media(max-width :991px)
+{
+  .navbar-brand{
+    font-size: 1.5rem !important;
+  }
+}
