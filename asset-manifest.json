@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Form-task-AAron-Dsilva/static/css/main.23d2634e.css",
+    "main.js": "/Form-task-AAron-Dsilva/static/js/main.24a7f489.js",
+    "static/media/Rectangle 38.png": "/Form-task-AAron-Dsilva/static/media/Rectangle 38.91c10577648159eb705b.png",
+    "index.html": "/Form-task-AAron-Dsilva/index.html",
+    "main.23d2634e.css.map": "/Form-task-AAron-Dsilva/static/css/main.23d2634e.css.map",
+    "main.24a7f489.js.map": "/Form-task-AAron-Dsilva/static/js/main.24a7f489.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d2634e.css",
+    "static/js/main.24a7f489.js"
+  ]
+}
